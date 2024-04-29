@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">TravelingProject</string>
+
+    <string name="register_account">Register Account</string>
+    <string name="suggestion">Fill your details or continue with social media</string>
+    <string name="india_num">+91</string>
+    <string name="password">Enter your password</string>
+    <string name="terms">I have read and agree with the</string>
+    <string name="conditions">Terms and Conditions</string>
+    <string name="and"> and the</string>
+    <string name="policy">Privacy Policy</string>
+    <string name="signup">Sign Up</string>
+    <string name="login">Log In</string>
+    <string name="under_line">---------------------------------------------------------------</string>
+    <string name="under_line2">----------------------------------------------</string>
+    <string name="or">Or continue with</string>
+
+
+    <string name="facebook_app_id">404768815683423</string>
+    <string name="fb_login_protocol_scheme">fb1234</string>
+    <string name="facebook_client_token">d7ed8170bac577520dd9e384055104b8</string>
+
+
+    <!-- to toggle the open close button of the navigation drawer -->
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_maps">MapsActivity</string>
+
+    <string name="default_notification_channel_id">your_channel_id</string>
+    <string name="default_notification_channel_name">Your Channel Name</string>
+
+</resources>
